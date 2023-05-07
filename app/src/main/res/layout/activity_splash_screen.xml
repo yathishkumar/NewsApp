@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="Welcome to Pseudo Mobile Application"
-        android:textSize="24sp"
+        android:textSize="20sp"
         android:textColor="@color/white"
         android:fontFamily="sans-serif-condensed-light"
         android:maxLines="3"

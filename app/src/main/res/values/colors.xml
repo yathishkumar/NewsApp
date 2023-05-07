@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="primary">#113266</color>
-    <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-
     <color name="colorTextTitle">#262626</color>
-    <color name="colorTextSubtitle">#4e4e4e</color>
-    <color name="colorBackground">#f9f9fa</color>
-    <color name="grey_80">#37474F</color>
     <color name="grey_40">#999999</color>
-    <color name="grey_5">#f2f2f2</color>
 </resources>
