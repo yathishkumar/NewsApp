@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389336059089",
+    "project_id": "studious-metric-266607",
+    "storage_bucket": "studious-metric-266607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389336059089:android:caaa20b30b9bd197c549f0",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389336059089-o7hmjspc0nblum1bt61os9sb5i3u5h4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgSA7O1IGLBQZ59LZsJH9PhRUyhq3vWxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389336059089-o7hmjspc0nblum1bt61os9sb5i3u5h4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
